@@ -42,7 +42,7 @@ class Footer extends Component {
             <Grid item xs={6}>
               <Grid container justify="center">
                   <Typography variant="caption" gutterBottom className={classes.footer}>
-                    Made with <span className={classes.icon}><i className="fas fa-heart" title="love"></i></span> by <span className="">navid</span>.
+			Webアプリ開発チャンネル
                   </Typography>
               </Grid>
             </Grid>
