@@ -1,3 +1,6 @@
+# Fork
+fork by https://github.com/nabidam/laravel-react-todo
+
 # laravel-react-todo
 A simple todo app written in php using [Laravel](https://laravel.com) and [ReactJS](https://reactjs.org).
 
