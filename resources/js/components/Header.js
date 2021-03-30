@@ -35,7 +35,7 @@ function Header(props) {
       <AppBar position="static">
         <Toolbar>
           <Typography component={Link} variant="h6" color="inherit" className={classes.grow} to="/">
-            To-Do List
+            Laravel-React-To-Do List
           </Typography>
         </Toolbar>
       </AppBar>
